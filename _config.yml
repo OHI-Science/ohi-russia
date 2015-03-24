@@ -11,9 +11,9 @@ study_area:  Russia
 git_owner:   OHI-Science
 git_repo:    rus
 git_slug:    OHI-Science/rus
-app_url:     http://ohi-science.nceas.ucsb.edu/rus
+app_url:     https://ohi-science.shinyapps.io/rus_app
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
@@ -46,14 +46,14 @@ gems:
 
 # Site owner
 owner:
-  name: Ben Best
-  web: https://github.com/bbest
-  email: bbest@nceas.ucsb.edu
-  twitter: ben_d_best
-  bio: "Marine ecologist on the geek side."
+  name: Michael Rose
+  web: http://mademistakes.com
+  email: michael@mademistakes.com
+  twitter: mmistakes
+  bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +bbest
+    plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
   disqus-shortname:
