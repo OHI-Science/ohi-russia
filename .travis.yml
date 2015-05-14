@@ -4,8 +4,8 @@ branches:
   - draft
 env:
   global:
-  - default_branch_scenario="published/subcountry2014"
-  - study_area="Russia"
+  - default_branch_scenario: "published/subcountry2014"
+  - study_area: "Russia"
   - secure: FkSI6tPceT26VQ14cbK3dt2qmHDEJ4vyBDbd1gDucACQOT/R/AQPw79DgeZeeRM8YI1cbwsNyJBELAjYT18+HSomJkz579CGk+gLOO+rjNzw/0p1ae1L/+jx1Lp2KfNAeArQ7P4u2Y4YnSDQJlVZA6AvQhiLt2RRQ8fG18K7Vxk=
 matrix:
   fast_finish: true
